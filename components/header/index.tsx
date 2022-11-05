@@ -95,11 +95,11 @@ const Header = ({ isErrorPage }: HeaderType) => {
               )}
             </button>
           </Link>
-          <Link href="/login">
+          {/* <Link href="/login">
             <button className="site-header__btn-avatar">
               <i className="icon-avatar"></i>
             </button>
-          </Link>
+          </Link> */}
           <button
             onClick={() => setMenuOpen(true)}
             className="site-header__btn-menu"
