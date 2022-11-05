@@ -21,7 +21,7 @@ const Header = ({ isErrorPage }: HeaderType) => {
   const [menuOpen, setMenuOpen] = useState(false)
   // const [searchOpen, setSearchOpen] = useState(false);
   const navRef = useRef(null)
-  const searchRef = useRef(null)
+  // const searchRef = useRef(null)
 
   const headerClass = () => {
     if (window.pageYOffset === 0) {
