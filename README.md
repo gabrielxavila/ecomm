@@ -34,3 +34,4 @@ This repo contains a work in progress Ecommerce responsive made with Next.js, Re
 - [ ] Use CSS variables instead of static colors# ecomm
 # ecomm
 # ecomm
+# ecomm
